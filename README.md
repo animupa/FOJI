@@ -13,7 +13,7 @@ It consists of 306 entries (one per orchesta) and 8 variables:
 
 ## Source
 
-The data has been retrieved from https://catastro.foji.cl/ and structured for better analysis and data visualization.
+The data has been retrieved from https://catastro.foji.cl/ and structured by Animupa for better analysis and data visualization.
 
 ## License
 
