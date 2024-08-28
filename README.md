@@ -7,9 +7,9 @@ It consists of 306 entries (one per orchesta) and 8 variables:
 - 'Región': region in Chile
 - 'Provincia' : province within the region
 - 'Comuna' : city
-- 'Instrumentos' : instruments played in the orchestras
-- 'Instructores' : number of teachers
-- 'Elenco' : number of musicians
+- 'Instrumentos' : instruments played in the orchestra
+- 'Instructores' : number of teachers in the orchestra
+- 'Elenco' : number of musicians in the orchestra
 
 ## Source
 
