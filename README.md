@@ -1,7 +1,7 @@
 # FOJI
-Dataset of the 2023 registry of the Youth and Children's Orchestras Foundation of Chile (FOJI). 
+Dataset of the 2023 registry of the orchestras that are part of the community of Fundación de Orquestas Juveniles e Infantiles de Chile (Foundation of Youth and Children's Orchestras of Chile)
 
-It consists of 306 entries (one per orchesta) and 8 variables:
+It consists of 296 entries (one per orchesta) and 8 variables:
 - 'ID' : unique identifier of the orchestra (produced by Animupa)
 - 'Nombre' : name of the orchestra
 - 'Región': region in Chile
